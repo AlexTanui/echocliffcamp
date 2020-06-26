@@ -1,2 +1,2 @@
-# Blooger_Website
-This is the complete blooger website create using html and css
+echo cliff web page 
+This is the complete website created with blogger template using html and css
